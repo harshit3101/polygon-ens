@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/Downloads/Eclipse Formatters/VPSEclipseJavaFormatter.xml" />
+        <option name="selectedJavaProfile" value="VPSEclipseJavaFormatter" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
